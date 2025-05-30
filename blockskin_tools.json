@@ -22,9 +22,9 @@
   "interstitial": "/21775744923/example/interstitial",
   "native_ad": "/21775744923/example/native",
   "privacy_policy":"https://www.google.com",
-  "starting_screen":false,
-  "inner_screen":false,
-  "inner_server_screen":false,
+  "starting_screen":true,
+  "inner_screen":true,
+  "inner_server_screen":true,
   "native_screen":true,
   "extra_native_screen":true,
   "web_app":"https://www.google.com"
