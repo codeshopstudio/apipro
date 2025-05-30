@@ -1,0 +1,22 @@
+{
+  "full_ad": true,
+  "google_ad": true,
+  "link_ad": true,
+  "inter_click": 2,
+  "ad_show_sequence": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "link": "https://www.google.com/==https://in.search.yahoo.com/?fr2=inr==https://en.wikipedia.org/wiki/Main_Page",
+  "task_start_link": "https://freecloudgame.com/==https://codeshopstudio.com/",
+  "rewarded_ads": "/21775744923/example/rewarded",
+  "rewarded_interstitial_ads": "/21775744923/example/rewarded-interstitial",
+  "open_ad": "/21775744923/example/app-open",
+  "interstitial": "/21775744923/example/interstitial",
+  "native_ad": "/21775744923/example/native",
+  "privacy_policy":"https://www.google.com"
+}
