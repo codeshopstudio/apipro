@@ -3,7 +3,7 @@
   "full_ad": true,
   "google_ad": true,
   "link_ad": true,
-  "inter_click": 1,
+  "inter_click": 5,
   "ad_show_sequence": [
     1,
     2,
