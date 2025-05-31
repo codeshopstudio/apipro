@@ -27,5 +27,7 @@
   "inner_server_screen":true,
   "native_screen":true,
   "extra_native_screen":true,
+  "splash_ad":true,
+  "onback_ad":true,
   "web_app":"https://www.google.com"
 }
