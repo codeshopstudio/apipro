@@ -29,5 +29,6 @@
   "extra_native_screen":true,
   "splash_ad":true,
   "onback_ad":true,
+  "inter_time_ad":true,
   "web_app":"https://www.google.com"
 }
