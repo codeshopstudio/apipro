@@ -1,14 +1,12 @@
 {
   "is_app_run":true,
   "full_ad": true,
-  "google_ad": true,
+  "google_ad": false,
   "link_ad": true,
   "inter_click": 1,
   "ad_show_sequence": [
     1,
-    2,
-    1,
-    2
+    1
   ],
   "link": ["https://www.google.com/","https://in.search.yahoo.com/?fr2=inr","https://en.wikipedia.org/wiki/Main_Page"],
   "task_start_link": ["https://freecloudgame.com/","https://codeshopstudio.com/"],
