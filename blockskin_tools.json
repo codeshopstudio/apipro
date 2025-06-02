@@ -1,6 +1,6 @@
 {
   "is_app_run":true,
-  "full_ad": true,
+  "full_ad": false,
   "google_ad": false,
   "link_ad": false,
   "inter_click": 1,
