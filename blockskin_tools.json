@@ -28,5 +28,6 @@
   "splash_ad":true,
   "onback_ad":true,
   "inter_time_ad":true,
+  "inter_close_link":true,
   "web_app":"https://www.google.com"
 }
