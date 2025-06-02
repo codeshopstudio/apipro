@@ -2,7 +2,7 @@
   "is_app_run":true,
   "full_ad": true,
   "google_ad": false,
-  "link_ad": true,
+  "link_ad": false,
   "inter_click": 1,
   "ad_show_sequence": [
     1,
