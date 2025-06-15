@@ -20,14 +20,14 @@
   "interstitial": "ca-app-pub-4209969623320701/3171212333",
   "native_ad": "/21775744923/example/native",
   "privacy_policy":"https://allskinoutfitforrbx.blogspot.com/2025/06/privacy-policy.html",
-  "starting_screen":false,
+  "starting_screen":true,
   "inner_screen":true,
   "inner_server_screen":true,
   "native_screen":true,
   "extra_native_screen":true,
-  "splash_ad":true,
+  "splash_ad":false,
   "onback_ad":false,
   "inter_time_ad":true,
-  "inter_close_link":true,
+  "inter_close_link":false,
   "web_app":"https://www.google.com"
 }
